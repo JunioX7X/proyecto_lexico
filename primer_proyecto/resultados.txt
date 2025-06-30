@@ -1,0 +1,30 @@
+REPORTE DE COMPILACIÓN - LITTLE ENGLISH
+==================================================
+
+ESTADÍSTICAS GENERALES:
+Total de líneas procesadas: 4
+Compilaciones exitosas: 3
+Compilaciones fallidas: 1
+Tasa de éxito: 75.0%
+
+RESULTADOS DETALLADOS:
+------------------------------
+
+Línea 1: 'the cat runs.'
+Estado: ✓ ÉXITO
+
+Línea 2: 'a big dog walks.'
+Estado: ✓ ÉXITO
+
+Línea 3: 'the man reads a book.'
+Estado: ✓ ÉXITO
+
+Línea 4: 'invalid_word runs.'
+Estado: ✗ FALLO
+Error: Error léxico: Error léxico: Token no reconocido: 'invalid_word' en posición 0
+
+RESUMEN DE ERRORES:
+--------------------
+Errores léxicos: 1
+Errores sintácticos: 0
+Otros errores: 0
